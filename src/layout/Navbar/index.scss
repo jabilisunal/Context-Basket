@@ -1,0 +1,12 @@
+nav{
+    height: 72px;
+    background-color: rgb(107, 80, 214);
+    display: flex;
+    ul{
+        display: flex;
+        gap: 40px;
+        a{
+            color: white;
+        }
+    }
+}
